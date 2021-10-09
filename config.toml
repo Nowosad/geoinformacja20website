@@ -1,4 +1,4 @@
-baseurl = "https://www.nowosad.github.io/geoinformacja20website"
+baseurl = "https://vigilant-ardinghelli-743662.netlify.app/"
 #baseurl = "https://giscience2020.netlify.com/"
 title = "Geoinformacja 2020"
 theme = "hugo-universal-theme"

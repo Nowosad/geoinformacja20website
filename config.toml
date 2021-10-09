@@ -1,6 +1,6 @@
 baseurl = "https://vigilant-ardinghelli-743662.netlify.app/"
 #baseurl = "https://giscience2020.netlify.com/"
-title = "Geoinformacja 2020"
+title = "Geoinformacja 2022"
 theme = "hugo-universal-theme"
 languageCode = "pl-pl"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -136,8 +136,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
 
-    #logo = "img/giscience_icon.png"
-    #logo_small = "img/giscience_icon.png"
+    logo = "img/geoinf_icon.png"
+    logo_small = "img/geoinf_icon.png"
     #patrons = "img/patrons.png"
 
     address = "<p><strong>UNIWERSYTET IMIENIA ADAMA MICKIEWICZA</strong>"

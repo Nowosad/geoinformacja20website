@@ -1,1 +1,3 @@
-+++ title = "Ogłoszenia" +++
++++ 
+title = "Ogłoszenia"
++++

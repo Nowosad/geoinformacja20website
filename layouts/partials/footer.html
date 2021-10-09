@@ -1,0 +1,145 @@
+<footer id="footer">
+    <div class="container">
+
+{{ if isset .Site.Params "clients" }}
+{{ if .Site.Params.sponsors.enable }}
+{{ if gt (len .Site.Data.clients) 0 }}
+        <div class="row"> 
+                <h4>Honorary Patronat</h4>
+                <div class = "col-md-12 col-sm-12" align = "left">
+                  <ul>
+                      {{ range .Site.Data.clients.patrons }}
+                      <li style="list-style-type: none; float: left; width: 211px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>  
+        </div>
+
+        <div class="row"> 
+
+                <h4>Sponsors</h4>
+                <p class="lead">
+                  {{ .Site.Params.clients.subtitle }}
+                </p>
+                <div class = "col-md-1 col-sm-2" align = "left">
+                  <h5>Platinum</h5>
+                </div>
+                <div class = "col-md-5 col-sm-11">
+                  <ul>
+                      {{ range .Site.Data.clients.platinum }}
+                      <li style="list-style-type: none; float: left; width: 450px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+                
+                <div class = "col-md-1 col-sm-2" align = "left">
+                  <h5>Gold</h5>
+                </div>
+                <div class = "col-md-5 col-sm-11">
+                  <ul>
+                      {{ range .Site.Data.clients.gold }}
+                      <li style="list-style-type: none; float: left; width: 450px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+
+                
+        </div>
+        
+        <div class="row"> 
+                <div class = "col-md-1 col-sm-2" align = "left">
+                  <h5>Partners</h5>
+                </div>
+                <div class = "col-md-5 col-sm-11">
+                  <ul>
+                      {{ range .Site.Data.clients.partners }}
+                      <li style="list-style-type: none; float: left; width: 49.95%; min-height: 120px; max-width: auto; padding-right: 10px; padding-bottom: 20px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+                <div class = "col-md-1 col-sm-2" align = "left">
+                  <h5>Media Patronage</h5>
+                </div>
+                <div class = "col-md-5 col-sm-11">
+                  <ul>
+                      {{ range .Site.Data.clients.media }}
+                      <li style="list-style-type: none; float: left; width: 49.95%; min-height: 120px; max-width: auto; padding-right: 10px; padding-bottom: 20px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+        </div>
+
+    {{ end }}
+    {{ end }}
+    {{ end }}
+    
+    </div>
+
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col&#45;md&#45;12"> -->
+          {{ if isset .Site.Params "copyright" }}
+          <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+            {{ end }}
+        </div>
+        <div class="col-md-4 col-sm-6">
+            {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+            <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+
+            {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+        </div>
+    </div>
+</div>
+<!-- /#copyright -->
+
+<!-- *** COPYRIGHT END *** -->

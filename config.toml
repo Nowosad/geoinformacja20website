@@ -1,0 +1,207 @@
+baseurl = "https://www.nowosad.github.io/geoinformacja20website"
+#baseurl = "https://giscience2020.netlify.com/"
+title = "Geoinformacja 2020"
+theme = "hugo-universal-theme"
+languageCode = "pl-pl"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "pl"
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+[[menu.main]]
+    name = "Strona główna"
+    url  = "/"
+    weight = 1
+    
+[[menu.main]]
+    name = "Ogłoszenia"
+    url  = "/blog/"
+    weight = 2    
+
+[[menu.main]]
+    name = "Uczestnictwo"
+    weight = 3
+    
+[[menu.main]]
+    parent = "Uczestnictwo"
+    name = "Terminy"
+    url = "/terminy/"
+    weight = 1
+    
+[[menu.main]]
+    parent = "Uczestnictwo"
+    name = "Rejestracja"
+    url = "/rejestracja/"
+    weight = 2
+
+[[menu.main]]
+    parent = "Uczestnictwo"
+    name = "Rejestracja"
+    url = "/rejestracja/"
+    weight = 3
+    
+[[menu.main]]
+    parent = "Uczestnictwo"
+    name = "Lokalizacja"
+    url = "/lokalizacja/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Program"
+    weight = 4
+
+[[menu.main]]
+    parent = "Program"
+    name = "Program konferencji"
+    url = "/program/"
+    weight = 1
+    
+#[[menu.main]]
+#    parent = "Program"
+#    name = "Full Conference Proceedings"
+#    url = "/proceedings/"
+#    weight = 2
+    
+#[[menu.main]]
+#    parent = "Program"
+#    name = "Keynotes"
+#    url = "/keynotes/"
+#    weight = 3
+    
+#[[menu.main]]
+#    parent = "Program"
+#    name = "Workshops"
+#    url = "/workshops/"
+#    weight = 4
+    
+#[[menu.main]]
+#    parent = "Program"
+#    name = "Social Program"
+#    url = "/social-program/"
+#    weight = 6
+
+#[[menu.main]]
+#    parent = "Program"
+#    name = "Presenters Info"
+#    url = "/presenters-info/"
+#    weight = 7
+
+[[menu.main]]
+    name = "Komitety"
+    url = "/komitety/"
+    weight = 5
+
+[[menu.main]]
+    name = "Kontakt"
+    url  = "/kontakt/"
+    weight = 8
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Geoinf 2022"
+    defaultKeywords = ["Geoinf 2022", "konferencja"]
+    defaultDescription = "Konferencja z okazji 20-lecia kierunku geoinformacja. WNGiG UAM Poznań."
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    # email = "Buseco-UseR2018@monash.edu"
+
+    about_us = """
+    <p>
+
+    </p>
+    """
+    copyright = "<p>&copy Geoinf2022</p>"
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+    #logo = "img/giscience_icon.png"
+    #logo_small = "img/giscience_icon.png"
+    #patrons = "img/patrons.png"
+
+    address = "<p><strong>UNIWERSYTET IMIENIA ADAMA MICKIEWICZA</strong>"
+    addresscontact = """<p><strong>Instytut Geoekologii i Geoinformacji</strong>
+        <br>Krygowskiego 10
+        <br>61-680, Poznań
+      </p>
+      """
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Wykłady zaproszone"
+    #subtitle = "We are delighted to announce the Keynote Speakers are ..."
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-users"
+    title = "Zarejestruj się!"
+    subtitle = "Rejestracja będzie otwarta od ..."
+    #subtitle = "The conference organizers are closely monitoring the coronavirus outbreak, and we are ready to take action if needed. At this point, we have no indication of the conference’s schedule in September being impacted."
+    link_url  = "/rejestracja/"
+    link_text = "Idź do strony z rejestracją"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Sponsorzy"
+    subtitle = ""
+    
+[params.sponsors]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Sponsorzy"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "Ogłoszenia"
+    subtitle = ""

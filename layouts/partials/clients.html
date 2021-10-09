@@ -1,0 +1,100 @@
+{{ if isset .Site.Params "clients" }}
+{{ if .Site.Params.clients.enable }}
+{{ if gt (len .Site.Data.clients) 0 }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.clients.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.clients.subtitle }}
+                </p>
+<!--
+                <div class = "col-md-4 col-sm-6" align = "center">
+                  <h2>Platinum</h2>
+                </div>
+                <div class = "col-md-8 col-sm-6">
+                  <ul>
+                      {{ range .Site.Data.clients.platinum }}
+                      <li style="list-style-type: none; width: 450px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+-->
+<!---
+                <div class = "col-md-4 col-sm-6" align = "center">
+                  <h2>Bronze</h2>
+                </div>
+                <div class = "col-md-8 col-sm-6">
+                  <ul>
+                      {{ range .Site.Data.clients.bronze }}
+                      <li style="list-style-type: none; float: left; width: 49.95%; min-height: 120px; max-width: auto; padding-right: 60px; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+-->
+                <!-- /.owl-carousel -->
+                <div class = "col-md-4 col-sm-6" align = "center">
+                  <h2>Partners</h2>
+                </div>
+                <div class = "col-md-8 col-sm-6">
+                <!-- <ul class="owl&#45;carousel customers"> -->
+                  <ul>
+                      {{ range .Site.Data.clients.partners }}
+                      <li style="list-style-type: none; float: left; width: 49.95%; min-height: 120px; max-width: auto; padding-right: 60px; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+                <div class = "col-md-4 col-sm-6" align = "center">
+                  <h2>Media Patronage</h2>
+                </div>
+                <div class = "col-md-8 col-sm-6">
+                <!-- <ul class="owl&#45;carousel customers"> -->
+                  <ul>
+                      {{ range .Site.Data.clients.media }}
+                      <li style="list-style-type: none; float: left; width: 49.95%; min-height: 120px; max-width: auto; padding-right: 60px; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -43,9 +43,9 @@
                             <!--<h5><a href="{{ .Permalink }}">{{ .Params.subtitle }}</a></h5>-->
                             <p class="author-category">
                             {{ with .Params.author }}
-                            By <strong> {{ . }} </strong>
+                            Autor: <strong> {{ . }} </strong>
                             {{ end }}
-                            on {{ .Date.Format .Site.Params.date_format }}
+                            Dnia: {{ .Date.Format .Site.Params.date_format }}
                             </p>
                             <p>{{ .Description }}</p>
                             <p class="read-more">

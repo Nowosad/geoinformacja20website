@@ -205,3 +205,9 @@ paginate = 10
     enable = true
     title = "Ogłoszenia"
     subtitle = ""
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

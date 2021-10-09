@@ -1,71 +1,71 @@
 - id: home
-  translation: "Home"
+  translation: "Strona domowa"
 
 - id: templateBy
-  translation: "Template by"
+  translation: "Szablon stworzony przez"
 
 - id: portedBy
-  translation: "Ported to Hugo by"
+  translation: "Przerobiony do Hugo przez"
 
 - id: contactGoTo
-  translation: "Go to contact page"
+  translation: "Idź do strony kontaktowej"
 
 - id: contactAddrTitle
-  translation: "Address"
+  translation: "Adres"
 
 - id: contactTitle
-  translation: "Contact"
+  translation: "Kontakt"
 
 - id: contactForm
-  translation: "Contact form"
+  translation: "Formularz kontaktowy"
 
 - id: contactName
-  translation: "Your Name"
+  translation: "Twoje imię i nazwisko"
 
 - id: contactMail
-  translation: "Your Email"
+  translation: "Twój adres email"
 
 - id: contactMessage
-  translation: "Your Message"
+  translation: "Twoja wiadomość"
 
 - id: contactSend
-  translation: "Send Message"
+  translation: "Wyślij wiadomość"
 
 - id: navHome
-  translation: "go to homepage"
+  translation: "wróć do strony głownej"
 
 - id: navToggle
   translation: "Toggle Navigation"
 
 - id: categoriesTitle
-  translation: "Categories"
+  translation: "Kategorie"
 
 - id: searchTitle
-  translation: "Search"
+  translation: "Szukaj"
 
 - id: tagsTitle
-  translation: "Tags"
+  translation: "Tagi"
 
 - id: continueReading
-  translation: "Continue reading"
+  translation: "Czytaj..."
 
 - id: readMore
-  translation: "Read more"
+  translation: "Zobacz więcej"
 
 - id: authorBy
-  translation: "By"
+  translation: "Autor: "
 
 - id: recentPosts
-  translation: "Recent posts"
+  translation: "Ostatnie posty"
 
 - id: aboutUs
-  translation: "About us"
+  translation: "O nas"
 
 - id: newer
-  translation: "Newer"
+  translation: "Nowsze"
 
 - id: older
-  translation: "Older"
+  translation: "Starsze"
 
 - id: publishedOn
-  translation: "on"
+  translation: "opublikowano: "

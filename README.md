@@ -4,26 +4,26 @@ Strona internetowa konferencji geoinf2022.
 
 ## Działanie strony w technologii Hugo
 
-- Strony w tej technologii opierają się o wcześniej stworzone szablony (zobacz folder `themes`). **Zaawansowane**
+- Strony w tej technologii opierają się o wcześniej stworzone szablony (zobacz folder `themes`). *Zaawansowane*
 - Szablony można dowolnie edytować. 
-Moje zmiany w domyślnym szablonie są w folderze `layouts`. **Zaawansowane**
+Moje zmiany w domyślnym szablonie są w folderze `layouts`. *Zaawansowane*
 - Główna treść strony znajduje się w folderze `content`. 
 Tam można uzupełniać lub dodawać treść używając języka markdown.
-**Podstawowe**
+*Podstawowe*
 - W folderze `content` jest też podfolder `blog`. 
-Tam można dodawać kolejne pliki jako ogłoszenia - zobacz plik `2021-10-09-test.md` jako przykład. **Podstawowe**
+Tam można dodawać kolejne pliki jako ogłoszenia - zobacz plik `2021-10-09-test.md` jako przykład. *Podstawowe*
 - Tym jak wygląda główne meny strony (i kilkoma innymi rzeczami) steruje się z poziomu `config.toml`. 
 Możesz tam zobaczyć w jaki sposób dodane są kolejne elementy menu. 
 One wszystkie powiązane są z plikami w folderze `content`. 
-**Podstawowe**
+*Podstawowe*
 - Folder `static` zawiera dodatkowe pliki na stronie (np. obrazki, pdfy, etc.). 
 Zobacz, np. zawartość podfolderu `static/img`. 
 Po zbudowaniu strony sam folder `static` się "rozpuszcza" natomiast jego zawartość zaczyna znajdować się w głównej ścieżce strony.
-**Średniozaawansowane** 
+*Średniozaawansowane**
 - Ostatni folder `data` zawiera kilka wbudowanych mechanizmów w ten szablon. 
 Przykładowo, podfolder `carousel` zawiera zdefiniowanie "karuzeli" na stronie głównej (tej ze zdjęciami miasta)`.
 Podfolder `features` zawiera zdefiniowanie drugiego bloku na stronie głównej, `testimonials` opisuje zaproszone wykłady, a `clients` zawiera definicje sponsorów (dolny panel).
-**Średniozaawansowane** 
+*Średniozaawansowane*
 
 ## Budowanie strony
 

@@ -3,5 +3,6 @@ title = "Kontakt"
 id = "contact"
 +++
 
-email
+Adres emailowy konferencji: [geoinformacja@amu.edu.pl](geoinformacja@amu.edu.pl)
+
 

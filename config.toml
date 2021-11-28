@@ -1,6 +1,6 @@
 baseurl = "https://vigilant-ardinghelli-743662.netlify.app/"
 #baseurl = "https://giscience2020.netlify.com/"
-title = "Geoinformacja 2022"
+title = "Geoinformacja: Nauka - Praktyka - Edukacja"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -26,19 +26,19 @@ paginate = 10
 [[menu.main]]
     name = "Uczestnictwo"
     weight = 3
+
+[[menu.main]]
+    parent = "Uczestnictwo"
+    name = "O Konferencji"
+    url = "/o_konferencji/"
+    weight = 1
     
 [[menu.main]]
     parent = "Uczestnictwo"
     name = "Terminy"
     url = "/terminy/"
-    weight = 1
-    
-[[menu.main]]
-    parent = "Uczestnictwo"
-    name = "Rejestracja"
-    url = "/rejestracja/"
     weight = 2
-
+    
 [[menu.main]]
     parent = "Uczestnictwo"
     name = "Rejestracja"
@@ -49,7 +49,7 @@ paginate = 10
     parent = "Uczestnictwo"
     name = "Lokalizacja"
     url = "/lokalizacja/"
-    weight = 3
+    weight = 4
     
 [[menu.main]]
     name = "Program"
@@ -133,7 +133,7 @@ paginate = 10
 
     </p>
     """
-    copyright = "<p>&copy Geoinf2022</p>"
+    copyright = "<p>&copy Geoinformacja 2022</p>"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
@@ -171,18 +171,18 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    #enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Wykłady zaproszone"
+    #title = "Wykłady zaproszone"
     #subtitle = "We are delighted to announce the Keynote Speakers are ..."
 
 [params.see_more]
     enable = true
     icon = "fa fa-users"
     title = "Zarejestruj się!"
-    subtitle = "Rejestracja będzie otwarta od ..."
+    subtitle = "Rejestracja będzie otwarta od 1 marca 2022"
     #subtitle = "The conference organizers are closely monitoring the coronavirus outbreak, and we are ready to take action if needed. At this point, we have no indication of the conference’s schedule in September being impacted."
     link_url  = "/rejestracja/"
     link_text = "Idź do strony z rejestracją"
@@ -192,15 +192,15 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Sponsorzy"
+    #title = "Sponsorzy"
     subtitle = ""
     
 [params.sponsors]
-    enable = true
+    #enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Sponsorzy"
+    #title = "Sponsorzy"
     subtitle = ""
 
 [params.recent_posts]

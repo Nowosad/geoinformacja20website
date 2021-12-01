@@ -143,9 +143,12 @@ paginate = 10
     #patrons = "img/patrons.png"
 
     address = "<p><strong>UNIWERSYTET IMIENIA ADAMA MICKIEWICZA</strong>"
-    addresscontact = """<p><strong>Instytut Geoekologii i Geoinformacji</strong>
-        <br>Krygowskiego 10
-        <br>61-680, Poznań
+    addresscontact = """<p>
+        <strong>Instytut Geoekologii i Geoinformacji</strong>
+        <br>Wydział Nauk Geograficznych i Geologicznych
+        <br>Uniwersytet im. Adama Mickiewicza 
+        <br>ul. Bogumiła Krygowskiego 10
+        <br>61-680 Poznań
       </p>
       """
 

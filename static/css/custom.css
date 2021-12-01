@@ -5,6 +5,10 @@ p {
   font-size: 120%;
 }
 
+ol, ul {
+  font-size: 120%;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;

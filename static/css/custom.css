@@ -1,6 +1,7 @@
 /* your styles go here */
 
 /*jn font size*/
+/*
 p {
   font-size: 120%;
 }
@@ -8,6 +9,7 @@ p {
 ol, ul {
   font-size: 120%;
 }
+*/
 
 .box-image-text .image {
   min-height: 200px;

@@ -2,6 +2,8 @@
 title = "Lokalizacja"
 +++
 
+<iframe seamless src="/./map/map.html" width="100%" height="500"></iframe>
+
 Collegium Geographicum
 
 Wydział Nauk Geograficznych i Geologicznych 

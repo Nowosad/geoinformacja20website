@@ -28,6 +28,6 @@ Zakres tematyczny konferencji obejmuje:
 W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dziedzinie.
 
 
-Więcej informacji na temat konferencji znajduje się w sekcji Rejestracja. 
+Więcej informacji na temat konferencji znajduje się w sekcji [Rejestracja](/rejestracja). 
 
 

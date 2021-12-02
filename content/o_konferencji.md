@@ -13,8 +13,9 @@ Organizując tę konferencję chcemy uczcić dwa jubileusze:
 - 70 rocznicę urodzin prof. dr hab. Zbigniewa Zwolińskiego, który był inicjatorem powołania studiów na specjalności, a później kierunku „Geoinformacja” i przez kolejne lata ich organizatorem, opiekunem i wykładowcą.
 
 <h3>Studia geoinformacyjne w Poznaniu</h3>
-<p> Studia geoinformacyjne zostały utworzone na Wydziale Nauk Geograficznych i Geologicznych UAM w 2002 roku. W kolejnych latach „Geoinformacja” cieszyła się dużym zainteresowaniem kandydatów do studiowania na UAM. W ciągu 19 lat studia te ukończyło 262 licencjatów, 233 inżynierów i 409 magistrów. Wielu absolwentów studiów geoinformacyjnych pracuje w wyuczonym zawodzie w biznesie i administracji publicznej, a niektórzy wybrali karierę naukową w tej dziedzinie.
-Powstanie i istnienie na naszym Wydziale studiów w zakresie geoinformacji było także silnym i trwałym impulsem do rozwoju aktywności naukowej na polu teorii i zastosowań geoinformacji powodując, że UAM stało się jej znaczącym ośrodkiem, także w skali światowej. Świadczy o tym, między innymi, powierzenie nam zaszczytu organizacji światowych kongresów ["Geomorphometry 2015"](https://geomorphometry.org/2015-2/) i ["GIScience 2021"](https://www.giscience.org/).</p>
+
+Studia geoinformacyjne zostały utworzone na Wydziale Nauk Geograficznych i Geologicznych UAM w 2002 roku. W kolejnych latach „Geoinformacja” cieszyła się dużym zainteresowaniem kandydatów do studiowania na UAM. W ciągu 19 lat studia te ukończyło 262 licencjatów, 233 inżynierów i 409 magistrów. Wielu absolwentów studiów geoinformacyjnych pracuje w wyuczonym zawodzie w biznesie i administracji publicznej, a niektórzy wybrali karierę naukową w tej dziedzinie.
+Powstanie i istnienie na naszym Wydziale studiów w zakresie geoinformacji było także silnym i trwałym impulsem do rozwoju aktywności naukowej na polu teorii i zastosowań geoinformacji powodując, że UAM stało się jej znaczącym ośrodkiem, także w skali światowej. Świadczy o tym, między innymi, powierzenie nam zaszczytu organizacji światowych kongresów ["Geomorphometry 2015"](https://geomorphometry.org/2015-2/) i ["GIScience 2021"](https://www.giscience.org/).
 
 <h3>Cel konferencji</h3>
 

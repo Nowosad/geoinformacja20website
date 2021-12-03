@@ -14,7 +14,7 @@ title = "Komitety"
 - Dr hab. Iwona Jażdżewska, prof. UŁ (UŁ, Łódź) 
 - Prof. dr hab. Jacek Kozak (UJ, Kraków) 
 - prof. dr hab. Tomasz Niedzielski (UWr, Wrocław) 
-- Prof. dr Tomasz Stepinski, (University of Cincinnati)
+- Prof. dr Tomasz Stepinski (University of Cincinnati)
 - Prof. dr hab. Piotr Werner (UW, Warszawa) 
 - Dr hab. inż. Piotr Wężyk, prof. UR (UR, Kraków)
 

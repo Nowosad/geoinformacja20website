@@ -9,7 +9,7 @@ title = "Komitety"
 - Prof. dr hab. Elżbieta Bielecka (WAT, Warszawa)  
 - Prof. dr hab. Paweł Churski (UAM, Poznań) 
 - Dr hab. Leszek Gawrysiak (UMSC, Lublin) 
-- Prof. Piotr Jankowski (UAM, Poznań, San Diego State University) 
+- Prof. dr Piotr Jankowski (UAM, Poznań, San Diego State University) 
 - Dr hab. Jarosław Jasiewicz, prof. UAM (UAM, Poznań)
 - Dr hab. Iwona Jażdżewska, prof. UŁ (UŁ, Łódź) 
 - Prof. dr hab. Jacek Kozak (UJ, Kraków) 
@@ -21,8 +21,8 @@ title = "Komitety"
 
 ## Komitet organizacyjny
 
-- Dr Anna Dmowska - Przewodnicząca
+- __Dr hab. Anna Dmowska - Przewodnicząca__
 - Dr Joanna Gudowicz - Sekretarz
-- Dr Jakub Nowodad 
+- Dr Jakub Nowosad 
 - Dr Marcin Winowski 
 - Mgr Marlena Makowska

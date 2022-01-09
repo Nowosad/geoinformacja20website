@@ -4,8 +4,9 @@ title = "O konferencji"
 
 
 <center><h3>Geoinformacja: Nauka - Praktyka - Edukacja
-<br>Ogólnopolska konferencja naukowa z okazji 20-lecia studiów geoinformacyjnych w Poznaniu
-<br> 1 - 2 grudnia 2022, Poznań</h3></center>
+<br>Ogólnopolska konferencja naukowa z okazji 20-lecia studiów geoinformacyjnych na UAM w Poznaniu
+<br> 1 - 2 grudnia 2022, Poznań
+<br>organizowana pod patronatem JM Rektor UAM prof. dr hab. Bogumiły Kaniewskiej</h3></center>
 
 Organizując tę konferencję chcemy uczcić dwa jubileusze:
 
@@ -19,14 +20,14 @@ Powstanie i istnienie na naszym Wydziale studiów w zakresie geoinformacji było
 
 <h3>Cel konferencji</h3>
 
-<p><b>Głównym celem planowanej konferencji jest wymiana idei oraz doświadczeń w zakresie aktualnych i nowych kierunków rozwoju Geoinformacji na polu nauki, edukacji, zastosowań praktycznych w biznesie i administracji. </b></p>
+<p><b>Głównym celem planowanej konferencji jest wymiana idei oraz doświadczeń w zakresie aktualnych i nowych kierunków rozwoju Geoinformacji na polu nauki, edukacji oraz zastosowań praktycznych w biznesie i administracji. </b></p>
 
 Zakres tematyczny konferencji obejmuje:
 
 - podsumowanie trendów rozwoju Geoinformacji w Polsce i na świecie w przeszłości i wskazanie najbardziej obiecujących kierunków zmian na najbliższą przyszłość;
 - zastosowania systemów informacji geograficznej do rozwiązywania problemów w różnych dziedzinach w zakresie działalności badawczej i praktycznej, ze szczególnym uwzględnieniem nowych metod oraz danych.
 
-W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dziedzinie.
+W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Z.Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dziedzinie.
 
 
 Więcej informacji na temat konferencji znajduje się w sekcji [Rejestracja](/rejestracja). 

@@ -4,7 +4,7 @@ title = "Komitety"
 
 ## Komitet naukowy
 
-- __Dr hab. Alfred Stach, prof. UAM (UAM, Poznań) - przewodniczący__
+- __Dr hab. Alfred Stach, prof. UAM (UAM, Poznań) - Przewodniczący__
 - Dr hab. Marek Baranowski, prof. IGiK 
 - Prof. dr hab. Elżbieta Bielecka (WAT, Warszawa)  
 - Prof. dr hab. Paweł Churski (UAM, Poznań) 

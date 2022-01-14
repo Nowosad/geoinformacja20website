@@ -4,14 +4,14 @@ title = "O konferencji"
 
 
 <center><h3>Geoinformacja: Nauka - Praktyka - Edukacja
-<br>Ogólnopolska konferencja naukowa z okazji 20-lecia studiów geoinformacyjnych na UAM w Poznaniu
+<br>Ogólnopolska konferencja naukowa z okazji 20-lecia studiów geoinformacyjnych na Wydziale Nauk Geograficznych i Geologicznych UAM w Poznaniu
 <br> 1 - 2 grudnia 2022, Poznań</h3></center>
 
 Serdecznie zapraszamy do udziału w __Ogólnopolskiej konferencji naukowej "Geoinformacja: Nauka – Praktyka – Edukacja" organizowanej pod patronatem JM Rektor UAM prof. dr hab. Bogumiły Kaniewskiej__. Konferencja odbędzie się w dniach __1 - 2 grudnia 2022 r. na Wydziale Nauk Geograficznych i Geologicznych Uniwersytetu im. Adama Mickiewicza w Poznaniu.__
 
 Organizując tę konferencję chcemy uczcić dwa jubileusze:
 
-- 20-lecia studiów geoinformacyjnych na UAM w Poznaniu oraz,
+- 20-lecia studiów geoinformacyjnych na Wydziale Nauk Geograficznych i Geologicznych UAM w Poznaniu oraz,
 - 70 rocznicę urodzin prof. dr hab. Zbigniewa Zwolińskiego, który był inicjatorem powołania studiów na specjalności, a później kierunku „Geoinformacja” i przez kolejne lata ich organizatorem, opiekunem i wykładowcą.
 
 <h3>Studia geoinformacyjne w Poznaniu</h3>

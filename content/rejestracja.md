@@ -14,4 +14,6 @@ W formularzu zgłoszeniowym należy zaznaczyć:
 - zgłoszenie udziału w sesji specjalnej "GIS w geomorfologii. Geomorfologia bez GIS".
 
 
-<b>Formularz rejestracyjny zostanie udostępniony na tej stronie 1 marca 2022 roku.</b>
+<b>Formularz rejestracyjny już dostępny! Zapraszamy do rejestracji.</b>
+
+[https://forms.office.com/r/TmB5XMwJyf](https://forms.office.com/r/TmB5XMwJyf)

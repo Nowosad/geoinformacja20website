@@ -28,7 +28,7 @@ Zakres tematyczny konferencji obejmuje:
 - podsumowanie trendów rozwoju geoinformacji w Polsce i na świecie w przeszłości i wskazanie najbardziej obiecujących kierunków zmian na najbliższą przyszłość;
 - zastosowania systemów informacji geograficznej do rozwiązywania problemów w różnych dziedzinach w zakresie działalności badawczej i praktycznej, ze szczególnym uwzględnieniem nowych metod oraz danych.
 
-W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Z.Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dziedzinie.
+W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS?"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Z.Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dziedzinie.
 
 
 Więcej informacji na temat konferencji znajduje się w sekcji [Rejestracja](/rejestracja). 

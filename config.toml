@@ -13,10 +13,10 @@ paginate = 10
 
 [menu]
 
-[[menu.main]]
-    name = "Strona główna"
-    url  = "/"
-    weight = 1
+#[[menu.main]]
+    #name = "Strona główna"
+    #url  = "/"
+    #weight = 1
     
 [[menu.main]]
     name = "Ogłoszenia"
@@ -67,17 +67,17 @@ paginate = 10
 #    url = "/proceedings/"
 #    weight = 2
     
-#[[menu.main]]
-#    parent = "Program"
-#    name = "Keynotes"
-#    url = "/keynotes/"
-#    weight = 3
+[[menu.main]]
+    parent = "Program"
+    name = "Keynotes"
+    url = "/keynotes/"
+    weight = 2
     
-#[[menu.main]]
-#    parent = "Program"
-#    name = "Workshops"
-#    url = "/workshops/"
-#    weight = 4
+[[menu.main]]
+    parent = "Program"
+    name = "Warsztaty"
+    url = "/warsztaty/"
+    weight = 4
     
 #[[menu.main]]
 #    parent = "Program"
@@ -92,9 +92,31 @@ paginate = 10
 #    weight = 7
 
 [[menu.main]]
+    name = "Organizatorzy"
+    weight = 5
+
+[[menu.main]]
+    parent = "Organizatorzy"
     name = "Komitety"
     url = "/komitety/"
-    weight = 5
+    weight = 1
+
+[[menu.main]]
+    parent = "Organizatorzy"
+    name = "Współorganizatorzy"
+    url = "/wspolorganizatorzy/"
+    weight = 2
+
+#[[menu.main]]
+    #parent = "Organizacja"
+    #name = "Sponsorzy"
+    #url = "/sponsorzy/"
+    #weight = 3
+
+#[[menu.main]]
+    #name = "Sponsorzy"
+    #url = "/sponsorzy/"
+    #weight = 7
 
 [[menu.main]]
     name = "Kontakt"
@@ -199,7 +221,7 @@ paginate = 10
     subtitle = ""
     
 [params.sponsors]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.

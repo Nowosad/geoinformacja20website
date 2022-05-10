@@ -19,8 +19,8 @@ paginate = 10
     #weight = 1
     
 [[menu.main]]
-    name = "Ogłoszenia"
-    url  = "/blog/"
+    name = "O Geoinformacji"
+    url  = "/o_geoinformacji/"
     weight = 2    
 
 [[menu.main]]
@@ -50,6 +50,12 @@ paginate = 10
     name = "Lokalizacja"
     url = "/lokalizacja/"
     weight = 4
+
+[[menu.main]]
+    parent = "Uczestnictwo"
+    name = "Ogłoszenia"
+    url = "/blog/"
+    weight = 5
     
 [[menu.main]]
     name = "Program"

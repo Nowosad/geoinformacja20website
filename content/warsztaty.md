@@ -11,14 +11,45 @@ Dla wygody uczestników, warsztaty zostały podzielone na dwa bloki tematyczne:
 Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [jarekj@amu.edu.pl](jarekj@amu.edu.pl)
 
 
-
-|                                        |                                    **Systemy obserwacyjne Ziemi**                                   |                                         **Geoinformatyka**                                        |
-|:--------------------------------------:|:---------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-| **Piątek, 2.12.2022<br>15.30 - 18.00** | Naziemny skaning laserowy w teroii i praktyce<br>(Waldemar Kociuba, UMCS)                           | Dane przestrzenne w uczeniu maszynowym<br>- środowisko R <br>(Krzysztof Dyba, Jakub Nowosad, UAM) |
-|  **Sobota, 3.12.2022<br>9.00 - 12.30** | Structure from montion - <br>zastosowania w badaniach geomorfologicznych<br>(Marcin Winowski, UAM)  | Plugin w QGIS dla początkujących<br>(Jakub Skowroński, GIS Support)                               |
-|                                        |                                           Przerwa obiadowa                                          |                                          Przerwa obiadowa                                         |
-| **Sobota, 3.12.2022<br>13.30 - 17.00** | Google Earth Engine - nie tylko dla programistów<br>(Sławomir Królewicz, Jakub Ceglarek, UAM)       | WebGIS - publikowanie danych geoprzestrzennych<br>w internecie<br>(Robert Kostecki, UAM)          |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">**Systemy obserwacyjne Ziemi**</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">**Geoinformatyka**</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow"><span style="font-weight:bold">Piątek, 2.12.2022</span><br><span style="font-weight:bold">15.30 - 18.00</span></td>
+    <td class="tg-c3ow">Naziemny skaning laserowy w teroii i praktyce<br>(Waldemar Kociuba, UMCS)</td>
+    <td class="tg-c3ow">Dane przestrzenne w uczeniu maszynowym<br>- środowisko R <br>(Krzysztof Dyba, Jakub Nowosad, UAM)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><span style="font-weight:bold">Sobota, 3.12.2022</span><br><span style="font-weight:bold">9.00 - 12.30</span></td>
+    <td class="tg-c3ow">Structure from montion - <br>zastosowania w badaniach geomorfologicznych<br>(Marcin Winowski, UAM)</td>
+    <td class="tg-c3ow">Plugin w QGIS dla początkujących<br>(Jakub Skowroński, GIS Support)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Przerwa obiadowa</td>
+    <td class="tg-c3ow">Przerwa obiadowa</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><span style="font-weight:bold">Sobota, 3.12.2022</span><br><span style="font-weight:bold">13.30 - 17.00</span></td>
+    <td class="tg-c3ow">Google Earth Engine - nie tylko dla programistów<br>(Sławomir Królewicz, Jakub Ceglarek, UAM) </td>
+    <td class="tg-c3ow">WebGIS - publikowanie danych geoprzestrzennych<br>w internecie<br>(Robert Kostecki, UAM)</td>
+  </tr>
+</tbody>
+</table>
 
 ## Koszt udziału 
 Koszt udziału w warsztatach wynosi 100 zł za cały cykl warsztatowy (trzy kursy). Opłata za udział w warsztatach nie obejmuje kosztów obiadu. Obiady będzie można zamówić stołówce Wydziału.

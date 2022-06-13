@@ -2,7 +2,7 @@
 title = "Warsztaty"
 +++
 
-W dniach 2.12.2022 oraz 3.12.2022 odbędą się warsztaty. Warsztaty prowadzone są przez specjalistów posiadające rozległą wiedzę i duże doświadczenie praktyczne na temat prowadzonych spotkań. 
+W dniach 2.12.2022 oraz 3.12.2022 odbędą się warsztaty. Warsztaty prowadzone są przez specjalistów posiadających rozległą wiedzę i duże doświadczenie praktyczne na temat prowadzonych spotkań. 
 Dla wygody uczestników, warsztaty zostały podzielone na dwa bloki tematyczne: 
 
 - Blok **systemy obserwacji Ziemi** obejmuje techniki i przetwarzanie danych geoprzestrzennych pozyskiwanych w wyniku skaningu laserowego i dronów oraz przetwarzania danych teledetekcyjnych przy pomocy systemu Google Earth Engine. 

@@ -69,4 +69,3 @@ w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacaj�
   </tr>
 </tbody>
 </table>
-

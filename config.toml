@@ -35,7 +35,7 @@ paginate = 10
     
 [[menu.main]]
     parent = "Uczestnictwo"
-    name = "Terminy"
+    name = "Opłaty i terminy"
     url = "/terminy/"
     weight = 2
     

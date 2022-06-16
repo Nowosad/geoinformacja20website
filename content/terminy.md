@@ -16,13 +16,23 @@ Opłata konferencyjna obejmuje: przerwy kawowe, 2 lunche oraz materiały konfere
 
 **Ze względu na dynamicznie zmieniające się koszty obsługi konferencji spowodowane wzrastająca inflacją zmuszeni jesteśmy do rygorystycznego przestrzegania terminów wniesienia opłat konferencyjnych. Uprzejmie prosimy o terminowe regulowanie opłaty.**
 
-Opłaty konferencyjnej za udział w Konferencji należy dokonać do **30 września 2022 r**. na konto: </br>
+**Opłaty konferencyjnej za udział w Konferencji należy dokonać do 30 września 2022 r. na konto**: </br>
 Stowarzyszenia Geomorfologów Polskich, ul. B. Krygowskiego 10, 61-680 Poznań </br>
 Santander Bank Polska </br>
 nr 65 1090 1359 0000 0000 3501 8623 </br>
 w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacającego, wariant opłaty </br>
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 <table class="tg">
 <thead>
   <tr>
@@ -59,8 +69,4 @@ w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacaj�
   </tr>
 </tbody>
 </table>
-
-
-
-
 

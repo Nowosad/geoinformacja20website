@@ -23,8 +23,8 @@ Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [ja
 <thead>
   <tr>
     <th class="tg-c3ow"></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">**Systemy obserwacyjne Ziemi**</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">**Geoinformatyka**</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Systemy obserwacyjne Ziemi</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Geoinformatyka</span></th>
   </tr>
 </thead>
 <tbody>

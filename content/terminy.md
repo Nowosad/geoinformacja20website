@@ -19,7 +19,7 @@ Opłata konferencyjna obejmuje: przerwy kawowe, 2 lunche oraz materiały konfere
 Stowarzyszenia Geomorfologów Polskich, ul. B. Krygowskiego 10, 61-680 Poznań </br>
 Santander Bank Polska </br>
 nr 65 1090 1359 0000 0000 3501 8623 </br>
-w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacającego, wariant opłaty </br>
+w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacającego</br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

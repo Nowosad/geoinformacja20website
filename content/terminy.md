@@ -28,10 +28,8 @@ w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacaj�
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>

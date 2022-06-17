@@ -11,7 +11,7 @@ title = "Opłaty i terminy"
 
 ## Opłaty
 
-Opłata konferencyjna obejmuje: przerwy kawowe, 2 lunche oraz materiały konferencyjne. Istnieje możliwość wyboru opłaty z udziałem w spotkaniu towarzyskim oraz bez udziału w spotkaniu towarzyskim. Opłata konferencyjna nie obejmuje noclegów. Noclegi uczestnicy rezerwują we własnym zakresie. 
+Opłata konferencyjna obejmuje: przerwy kawowe, 2 lunche oraz materiały konferencyjne. Opłata konferencyjna nie obejmuje noclegów. Noclegi uczestnicy rezerwują we własnym zakresie. 
 
 **Ze względu na dynamicznie zmieniające się koszty obsługi konferencji spowodowane wzrastająca inflacją zmuszeni jesteśmy do rygorystycznego przestrzegania terminów wniesienia opłat konferencyjnych. Uprzejmie prosimy o terminowe regulowanie opłaty.**
 

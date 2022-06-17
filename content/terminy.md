@@ -58,9 +58,10 @@ w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacaj�
     <td class="tg-c3ow">200 zł</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Opłata za pojedyńczy warsztat<br></td>
+    <td class="tg-0lax">Opłata za pojedyńczy warsztat</td>
     <td class="tg-baqh">30 zł </td>
     <td class="tg-baqh">40 zł</td>
   </tr>
 </tbody>
 </table>
+

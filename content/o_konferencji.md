@@ -12,7 +12,8 @@ Serdecznie zapraszamy do udziału w __Ogólnopolskiej konferencji naukowej "Geoi
 Organizując tę konferencję chcemy uczcić dwa jubileusze:
 
 - 20-lecia studiów geoinformacyjnych na Wydziale Nauk Geograficznych i Geologicznych UAM w Poznaniu oraz,
-- 70 rocznicę urodzin prof. dr hab. Zbigniewa Zwolińskiego, który był inicjatorem powołania studiów na specjalności, a później kierunku „Geoinformacja” i przez kolejne lata ich organizatorem, opiekunem i wykładowcą.
+- 70 rocznicę urodzin prof. dr hab. Zbigniewa Zwolińskiego, inicjatora powołania studiów geoinformacyjnych na specjalności i kierunku. 
+
 
 <h3>Cel konferencji</h3>
 
@@ -23,7 +24,7 @@ Organizując tę konferencję chcemy uczcić dwa jubileusze:
 - podsumowanie trendów rozwoju geoinformacji w Polsce i na świecie w przeszłości i wskazanie najbardziej obiecujących kierunków zmian na najbliższą przyszłość;
 - zastosowania systemów informacji geograficznej do rozwiązywania problemów w różnych dziedzinach w zakresie działalności badawczej i praktycznej, ze szczególnym uwzględnieniem nowych metod oraz danych.
 
-W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS?"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Z.Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dziedzinie.
+W trakcie konferencji odbędzie się również sesja specjalna <b><i>"GIS w geomorfologii. Geomorfologia bez GIS?"</b></i>. Celem sesji jest zaprezentowanie zastosowań systemów informacji geograficznej w zakresie analizy rzeźby powierzchni Ziemi i procesów ją kształtujących. Sesja ta jest dedykowana prof. Z.Zwolińskiemu ze względu na jego „geomorfologiczne korzenie” i ciągłą aktywność w tej dyscyplinie.
 
 Więcej informacji na temat konferencji znajduje się w sekcji [Rejestracja](/rejestracja). 
 

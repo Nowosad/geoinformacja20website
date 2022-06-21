@@ -13,7 +13,7 @@ W formularzu zgłoszeniowym należy zaznaczyć:
 - preferowaną formę prezentacji (referat, poster). Decyzję o zakwalifikowaniu zgłoszenia jako referat lub poster podejmie Komitet Naukowy. 
 - zgłoszenie udziału w sesji specjalnej "GIS w geomorfologii. Geomorfologia bez GIS?".
 
-Po konferencji będzie możliwość opublikowania artykułu w jednym z wybranych polskich czasopism. Szczegóły znajdują się na stronie [https://geoinformacja20uam.pl/publikacja/](https://geoinformacja20uam.pl/publikacja/)
+Po konferencji będzie możliwość opublikowania artykułu w jednym z wybranych polskich czasopism. Szczegóły znajdują się na stronie [Uczestnictwo - Publikacja](https://geoinformacja20uam.pl/publikacja/)
 
 <b>Formularz rejestracyjny już dostępny! Zapraszamy do rejestracji.</b>
 

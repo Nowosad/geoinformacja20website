@@ -47,15 +47,21 @@ paginate = 10
     
 [[menu.main]]
     parent = "Uczestnictwo"
+    name = "Publikacja"
+    url = "/publikacja/"
+    weight = 4
+
+[[menu.main]]
+    parent = "Uczestnictwo"
     name = "Lokalizacja"
     url = "/lokalizacja/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     parent = "Uczestnictwo"
     name = "Ogłoszenia"
     url = "/blog/"
-    weight = 5
+    weight = 6
     
 [[menu.main]]
     name = "Program"

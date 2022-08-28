@@ -56,7 +56,7 @@ Koszt udziału w pojedyńczym warsztacie wynosi 30 zł. Opłata za udział w war
 
 Opłaty za udział w warsztatach należy dokonać do 15 października 2022 r. na konto:
 
-Stowarzyszenia Geomorfologów Polskich, ul. B. Krygowskiego 10, 61-680 Poznań
+Stowarzyszenie Geomorfologów Polskich, ul. B. Krygowskiego 10, 61-680 Poznań
 
 Santander Bank Polska 
 

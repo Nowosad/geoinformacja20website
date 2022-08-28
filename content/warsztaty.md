@@ -5,7 +5,7 @@ title = "Warsztaty"
 W dniach 2.12.2022 oraz 3.12.2022 odbędą się warsztaty. Warsztaty prowadzone są przez specjalistów posiadających rozległą wiedzę i duże doświadczenie praktyczne na temat prowadzonych spotkań. 
 Dla wygody uczestników, warsztaty zostały podzielone na dwa bloki tematyczne: 
 
-- Blok **systemy obserwacji Ziemi** obejmuje techniki i przetwarzanie danych geoprzestrzennych pozyskiwanych w wyniku skaningu laserowego i dronów oraz przetwarzania danych teledetekcyjnych przy pomocy systemu Google Earth Engine. 
+- Blok **systemy obserwacyjne Ziemi** obejmuje techniki i przetwarzanie danych geoprzestrzennych pozyskiwanych w wyniku skaningu laserowego i dronów oraz przetwarzania danych teledetekcyjnych przy pomocy systemu Google Earth Engine. 
 - Blok **geoinformatyczny** skupia się na zastosowaniu środowiska R do zaawansowanych metod geoprzetwarzania, techniki publikowania skryptów geoprzetwarzania jako wtyczek środowiska R oraz prezentację i udostępnianie danych geoprzestrzennych w serwisach webowych.
 
 Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [jarekj@amu.edu.pl](jarekj@amu.edu.pl)
@@ -30,7 +30,7 @@ Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [ja
 <tbody>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Piątek, 2.12.2022</span><br><span style="font-weight:bold">15.30 - 18.00</span></td>
-    <td class="tg-c3ow">Naziemny skaning laserowy w teroii i praktyce<br>(Waldemar Kociuba, UMCS)</td>
+    <td class="tg-c3ow">Naziemny skaning laserowy w teorii i praktyce<br>(Waldemar Kociuba, UMCS)</td>
     <td class="tg-c3ow">Dane przestrzenne w uczeniu maszynowym<br>- środowisko R <br>(Krzysztof Dyba, Jakub Nowosad, UAM)</td>
   </tr>
   <tr>

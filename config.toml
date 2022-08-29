@@ -60,7 +60,7 @@ paginate = 10
 [[menu.main]]
     parent = "Uczestnictwo"
     name = "Komunikaty"
-    url = "/ogloszenia/"
+    url = "/komunikaty/"
     weight = 6
     
 [[menu.main]]

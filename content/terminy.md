@@ -4,7 +4,7 @@ title = "Opłaty i terminy"
 
 ## Terminy 
 
-- ~~31.08.2022~~ **25.09.2022** - wysłanie formularza zgłoszeniowego z tytułem, formą wystąpienia oraz krótkim streszczeniem (do 300 słów) 
+- ~~31.08.2022~~ **do 25.09.2022** - wysłanie formularza zgłoszeniowego z tytułem, formą wystąpienia oraz krótkim streszczeniem (do 300 słów) 
 - ~~15.09.2022~~ **do 5.10.2022** - informacja o akceptacji zgłoszenia
 - ~~15.10.2022~~ **do 25.10.2022** - wpłata opłaty konferencyjnej
 - ~~15.10.2022~~ **do 25.10.2022** - rejestracja na warsztaty oraz wniesienie opłaty za warsztaty

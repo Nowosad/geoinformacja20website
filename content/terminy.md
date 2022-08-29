@@ -4,10 +4,10 @@ title = "Opłaty i terminy"
 
 ## Terminy 
 
-- **od 1.03.2022 - 31.08.2022** - wysłanie formularza zgłoszeniowego z tytułem, formą wystąpienia oraz krótkim streszczeniem (do 300 słów) 
-- **do 15.09.2022** - informacja o akceptacji zgłoszenia
-- **do 15.10.2022** - wpłata opłaty konferencyjnej
-- **do 15.10.2022** - rejestracja na warsztaty oraz wniesienie opłaty za warsztaty
+- ~~31.08.2022~~ **25.09.2022** - wysłanie formularza zgłoszeniowego z tytułem, formą wystąpienia oraz krótkim streszczeniem (do 300 słów) 
+- ~~15.09.2022~~ **do 5.10.2022** - informacja o akceptacji zgłoszenia
+- ~~15.10.2022~~ **do 25.10.2022** - wpłata opłaty konferencyjnej
+- ~~15.10.2022~~ **do 25.10.2022** - rejestracja na warsztaty oraz wniesienie opłaty za warsztaty
 
 ## Opłaty
 
@@ -15,7 +15,7 @@ Opłata konferencyjna obejmuje: przerwy kawowe, 2 lunche oraz materiały konfere
 
 **Ze względu na dynamicznie zmieniające się koszty obsługi konferencji spowodowane wzrastająca inflacją zmuszeni jesteśmy do rygorystycznego przestrzegania terminów wniesienia opłat konferencyjnych. Uprzejmie prosimy o terminowe regulowanie opłaty.**
 
-**Opłaty konferencyjnej za udział w Konferencji należy dokonać do 15 października 2022 r. na konto**: </br>
+**Opłaty konferencyjnej za udział w Konferencji należy dokonać do 25 października 2022 r. na konto**: </br>
 Stowarzyszenie Geomorfologów Polskich, ul. B. Krygowskiego 10, 61-680 Poznań </br>
 Santander Bank Polska </br>
 nr 65 1090 1359 0000 0000 3501 8623 </br>

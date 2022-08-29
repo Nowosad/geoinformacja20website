@@ -11,6 +11,6 @@ Anna Dmowska
 Przewodnicząca Komitetu Organizacyjnego
 
 Komunikaty: 
-- [Plakat informacyjny](https://geoinformacja20uam.pl/Plakat_1.pdf)
-- [Komunikat I](https://geoinformacja20uam.pl/Geoinformacja_Komunikat_1.pdf)
-- [Komunikat II](https://geoinformacja20uam.pl/Geoinformacja_Komunikat_2.pdf)
+- [Plakat informacyjny](https://geoinformacja20uam.pl/Plakat_1.pdf){target="_blank"}
+- [Komunikat I](https://geoinformacja20uam.pl/Geoinformacja_Komunikat_1.pdf){target="_blank"}
+- [Komunikat II](https://geoinformacja20uam.pl/Geoinformacja_Komunikat_2.pdf){target="_blank"}

@@ -59,8 +59,8 @@ paginate = 10
 
 [[menu.main]]
     parent = "Uczestnictwo"
-    name = "Ogłoszenia"
-    url = "/blog/"
+    name = "Komunikaty"
+    url = "/ogloszenia/"
     weight = 6
     
 [[menu.main]]

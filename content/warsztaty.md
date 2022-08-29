@@ -54,7 +54,7 @@ Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [ja
 ## Koszt udziału 
 Koszt udziału w pojedyńczym warsztacie wynosi 30 zł. Opłata za udział w warsztatach nie obejmuje kosztów obiadu. Obiady będzie można zamówić w stołówce Wydziału. 
 
-Opłaty za udział w warsztatach należy dokonać do 15 października 2022 r. na konto:
+Opłaty za udział w warsztatach należy dokonać do 25 października 2022 r. na konto:
 
 Stowarzyszenie Geomorfologów Polskich, ul. B. Krygowskiego 10, 61-680 Poznań
 
@@ -66,7 +66,7 @@ w tytule przelewu proszę podać WARSZTATY - 20lat Geoinformacji, Imię i nazwis
 
 ## Rejestracja 
 Każdy z uczestników może zarejestrować się na 1 do 3 warsztatów. 
-Liczba miejsc w salach komputerowych jest ograniczona, w związku z tym zapisy na warsztaty trwają do **15 października 2022** lub do wyczerpania miejsc. Minimalna liczba uczestników każdego kursu to 5 osób, maksymalna 12-15.
+Liczba miejsc w salach komputerowych jest ograniczona, w związku z tym zapisy na warsztaty trwają do **25 października 2022** lub do wyczerpania miejsc. Minimalna liczba uczestników każdego kursu to 5 osób, maksymalna 12-15.
 
 Link do rejestracji: [https://forms.office.com/r/nfUcvD6yEa](https://forms.office.com/r/nfUcvD6yEa)
 

@@ -32,7 +32,7 @@
                 <div class = "col-md-12 col-sm-12" align = "left">
                   <ul>
                       {{ range .Site.Data.clients.patrons2 }}
-                      <li style="list-style-type: none; float: left; width: 211px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                      <li style="list-style-type: none; float: left; width: 211px; min-height: 120px; max-width: auto; padding-bottom: 60px; padding-right: 30px;" title="{{ .name }}" class = "img-responsive">
                           {{ if .url }}
                             <a href="{{ .url }}" target="_blank">
                               <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
@@ -47,18 +47,13 @@
         </div>
 
         <div class="row"> 
-
-                <h4>Sponsorzy</h4>
-                <p class="lead">
-                  {{ .Site.Params.clients.subtitle }}
-                </p>
-                <div class = "col-md-1 col-sm-2" align = "left">
-                  <h5></h5> 
-                </div>
-                <div class = "col-md-5 col-sm-11">
+			
+		        <div class="row"> 
+                <h4>Wspierają nas</h4>
+                <div class = "col-md-12 col-sm-12" align = "left">
                   <ul>
                       {{ range .Site.Data.clients.platinum }}
-                      <li style="list-style-type: none; float: left; width: 450px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                      <li style="list-style-type: none; float: left; width: 300px; min-height: 120px; max-width: auto; padding-bottom: 60px;padding-right: 30px;" title="{{ .name }}" class = "img-responsive">
                           {{ if .url }}
                             <a href="{{ .url }}" target="_blank">
                               <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
@@ -69,28 +64,12 @@
                       </li>
                       {{ end }}
                   </ul>
-                </div>
-                
-                <div class = "col-md-1 col-sm-2" align = "left">
-                  <h5></h5>
-                </div>
-                <div class = "col-md-5 col-sm-11">
-                  <ul>
-                      {{ range .Site.Data.clients.gold }}
-                      <li style="list-style-type: none; float: left; width: 450px; min-height: 120px; max-width: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
-                          {{ if .url }}
-                            <a href="{{ .url }}" target="_blank">
-                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                            </a>
-                          {{ else }}
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                          {{ end }}
-                      </li>
-                      {{ end }}
-                  </ul>
-                </div>
+                </div>  
+        </div>
 
-                
+        <div class="row"> 
+	             
+                            
         </div>
         
         

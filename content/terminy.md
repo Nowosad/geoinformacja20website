@@ -36,7 +36,7 @@ w tytule przelewu proszę podać 20lat Geoinformacji, Imię i nazwisko wpłacaj�
   <tr>
     <th class="tg-9wq8"><span style="font-weight:bold">Warianty opłaty konferencyjnej </span></th>
     <th class="tg-9wq8"><span style="font-weight:bold">do 25.10.2022</span></th>
-    <th class="tg-9wq8"><span style="font-weight:bold">po 25.10.2022</span></th>
+    <th class="tg-9wq8"><span style="font-weight:bold">25.10.2022 - 10.11.2022</span></th>
   </tr>
 </thead>
 <tbody>

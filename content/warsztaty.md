@@ -10,6 +10,7 @@ Informacje nt. warsztatów ESRI:
 - Udział w warsztatach prowadzonych przez firmę ESRI jest bezpłatny. 
 - Liczba miejsc: 17. 
 - Rejestracja na warsztaty jest otwarta do 25.10.2022 lub do wyczerpania miejsc; o udziale w warsztatach decyduje kolejność zgłoszeń. Pierwszeństwo w rejestracji na warsztaty firmy ESRI mają uczestnicy Konferencji.
+- Link do rejestracji:  [https://forms.office.com/r/E6XRr3jZBW](https://forms.office.com/r/E6XRr3jZBW)
 
 Szczegółowych informacji na temat warsztatów udziela Patrycja Przewoźna, [patrycja.wysocka@amu.edu.pl](patrycja.wysocka@amu.edu.pl)
 

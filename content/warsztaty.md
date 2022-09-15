@@ -2,6 +2,18 @@
 title = "Warsztaty"
 +++
 
+## Warsztaty ESRI 
+W dniu 1.12.2022 w godzinach 8.30-10.30 firma ESRI przeprowadzi warsztaty nt. **"ArcGIS Pro i metoda Deep Learning w przetwarzaniu danych rastrowych"**. 
+
+Informacje nt. warsztatów ESRI: 
+
+- Udział w warsztatach prowadzonych przez firmę ESRI jest bezpłatny. 
+- Liczba miejsc: 17. 
+- Rejestracja na warsztaty jest otwarta do 25.10.2022 lub do wyczerpania miejsc; o udziale w warsztatach decyduje kolejność zgłoszeń. Pierwszeństwo w rejestracji na warsztaty firmy ESRI mają uczestnicy Konferencji.
+
+Szczegółowych informacji na temat warsztatów udziela Patrycja Przewoźna, [patrycja.wysocka@amu.edu.pl](patrycja.wysocka@amu.edu.pl)
+
+## Warsztaty po Konferencji
 W dniach 2.12.2022 oraz 3.12.2022 odbędą się warsztaty. Warsztaty prowadzone są przez specjalistów posiadających rozległą wiedzę i duże doświadczenie praktyczne na temat prowadzonych spotkań. 
 Dla wygody uczestników, warsztaty zostały podzielone na dwa bloki tematyczne: 
 

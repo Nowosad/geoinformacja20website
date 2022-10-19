@@ -216,7 +216,7 @@ paginate = 10
     #subtitle = "We are delighted to announce the Keynote Speakers are ..."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-users"
     title = "Zarejestruj się!"
     subtitle = "Rejestracja już otwarta!"

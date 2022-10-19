@@ -15,6 +15,5 @@ W formularzu zgłoszeniowym należy zaznaczyć:
 
 Po konferencji będzie możliwość opublikowania artykułu w jednym z wybranych polskich czasopism. Szczegóły znajdują się na stronie [Uczestnictwo - Publikacja](https://geoinformacja20uam.pl/publikacja/)
 
-<b>Formularz rejestracyjny już dostępny! Zapraszamy do rejestracji.</b>
+<b>Rejestracja na konferencję została zamknięta. Dziękujemy za zgłoszenia.</b>
 
-[https://forms.office.com/r/TmB5XMwJyf](https://forms.office.com/r/TmB5XMwJyf)

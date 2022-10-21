@@ -26,6 +26,6 @@ title = "Komitety"
 - Dr Joanna Gudowicz - Sekretarz
 - Dr Ewelina Lipka 
 - Dr hab. Jakub Nowosad 
-- Dr Patrycja Przewoźna
+- Dr inż. Patrycja Przewoźna
 - Dr Marcin Winowski 
 - Mgr Marlena Makowska

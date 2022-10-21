@@ -8,6 +8,7 @@ title = "Opłaty i terminy"
 - ~~15.09.2022~~ **do 8.10.2022** - informacja o akceptacji zgłoszenia
 - ~~15.10.2022~~ **do 25.10.2022** - wpłata opłaty konferencyjnej
 - ~~15.10.2022~~ **do 25.10.2022** - rejestracja na warsztaty oraz wniesienie opłaty za warsztaty
+- **1 - 3.12.2022** - Konferencja
 
 **W odpowiedzi na liczne zapytania przedłużamy termin zgłoszeń na konferencję do 7.10.2022. Ze względu na dynamicznie zmieniające się koszty obsługi konferencji spowodowane sytuacją gospodarczą w kraju, informujemy, że rejestracja zostanie zamknięta 7.10.2022 i po tym terminie nie będzie możliwości zgłoszenia udziału w Konferencji. Uprzejmie prosimy także o terminowe regulowanie opłaty.**
 

@@ -24,8 +24,8 @@ title = "Komitety"
 
 - __Dr hab. Anna Dmowska - Przewodnicząca__
 - Dr Joanna Gudowicz - Sekretarz
-- Dr Ewelina Lipka 
+- Dr Ewelina Lipka
+- Mgr Marlena Makowska
 - Dr hab. Jakub Nowosad 
 - Dr inż. Patrycja Przewoźna
 - Dr Marcin Winowski 
-- Mgr Marlena Makowska

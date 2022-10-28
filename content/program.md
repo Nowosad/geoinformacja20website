@@ -28,11 +28,11 @@ title = "Program ramowy konferencji"
  
  9.00 - 10.30 Sesje referatowe I - III
  
-10.30 - 11.00 Przerwa kawowa / Dyskusja
+10.30 - 11.00 Przerwa kawowa
 
 11.00 - 12.30 Sesje referatowe IV - VI
 
-12.30 - 13.00 Przerwa kawowa / Dyskusja 
+12.30 - 13.00 Przerwa kawowa
 
 13.00 - 14.30 Sesje referatowe VII-IX
 

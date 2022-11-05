@@ -52,11 +52,11 @@ title = "Program ramowy konferencji"
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Zastosowania technologii geoinformacyjnych w rozwoju demokracji deliberatywnej i otwartego społeczeństwa informacyjnego<br><span style="font-style:italic">prof. PW dr hab. Robert Olszewski, Politechnika Warszawska</span></td>
+    <td class="tg-0pky">Zastosowania technologii geoinformacyjnych w rozwoju demokracji deliberatywnej i otwartego społeczeństwa informacyjnego<br><span style="font-style:italic">prof. PW dr hab. inż. Robert Olszewski, Politechnika Warszawska</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Kartowanie i modelowanie przestrzeni od 2-D do 4-D <br><span style="font-style:italic">prof. URK dr hab. Piotr Wężyk, Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie</span></td>
+    <td class="tg-0pky">Kartowanie i modelowanie przestrzeni od 2-D do 4-D <br><span style="font-style:italic">prof. URK dr hab. inż. Piotr Wężyk, Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>

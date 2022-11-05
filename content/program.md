@@ -60,7 +60,7 @@ title = "Program ramowy konferencji"
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">GIS w sieci mobilnej <br><span style="font-style:italic">Inez Beszterda, Orange Polska</span></td>
+    <td class="tg-0pky">GIS w sieci mobilnej <br><span style="font-style:italic">Inez Beszterda, Orange Polska SA</span></td>
   </tr>
   <tr>
     <td class="tg-6ic8">13.00 – 14.00</td>

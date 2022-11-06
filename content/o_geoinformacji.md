@@ -13,11 +13,11 @@ Studia geoinformacyjne na WNGiG UAM były też wielokrotnie nagradzane. W 2016 r
 
 Powstanie i istnienie na naszym Wydziale studiów w zakresie geoinformacji było także silnym i trwałym impulsem do rozwoju aktywności naukowej na polu teorii i zastosowań geoinformacji powodując, że UAM stało się jej znaczącym ośrodkiem, także w skali światowej. Świadczy o tym, między innymi, powierzenie nam zaszczytu organizacji światowych kongresów ["Geomorphometry 2015"](https://geomorphometry.org/2015-2/) i ["GIScience 2021"](https://www.giscience.org/).
 
-<img src="/./img/wngig/1.jpg" alt="WNGIG 1" width="48%"/>
-<img src="/./img/wngig/2.jpg" alt="WNGIG 2" width="48%"/>
-<img src="/./img/wngig/3.jpg" alt="WNGIG 3" width="48%"/>
-<img src="/./img/wngig/4.jpg" alt="WNGIG 4" width="48%"/>
-<img src="/./img/wngig/5.jpg" alt="WNGIG 5" width="48%"/>
-<img src="/./img/wngig/6.jpg" alt="WNGIG 6" width="48%"/>
+<img src="/./img/wngig/2.jpg" alt="WNGIG 2" width="49%"/>
+<img src="/./img/wngig/1.jpg" alt="WNGIG 1" width="49%"/>
+<img src="/./img/wngig/4.jpg" alt="WNGIG 4" width="49%"/>
+<img src="/./img/wngig/3.jpg" alt="WNGIG 3" width="49%"/>
+<img src="/./img/wngig/6.jpg" alt="WNGIG 6" width="49%"/>
+<img src="/./img/wngig/5.jpg" alt="WNGIG 5" width="49%"/>
 <br>
 

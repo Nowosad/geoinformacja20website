@@ -19,3 +19,5 @@ Powstanie i istnienie na naszym Wydziale studiów w zakresie geoinformacji było
 <img src="/./img/wngig/4.jpg" alt="WNGIG 4" width="48%"/>
 <img src="/./img/wngig/5.jpg" alt="WNGIG 5" width="48%"/>
 <img src="/./img/wngig/6.jpg" alt="WNGIG 6" width="48%"/>
+<br>
+

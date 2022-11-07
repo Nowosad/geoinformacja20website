@@ -91,7 +91,7 @@ title = "Program ramowy konferencji"
   </tr>
   <tr>
     <td class="tg-6ic8">9.00 – 10.30</td>
-    <td class="tg-0pky">Sesje referatowe I – III (referaty 15 min)</td>
+    <td class="tg-0pky">Sesje referatowe I – III (referaty 12 min)</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -111,7 +111,7 @@ title = "Program ramowy konferencji"
   </tr>
   <tr>
     <td class="tg-6ic8">11.00 – 12.30</td>
-    <td class="tg-0pky">Sesje referatowe IV – VI (referaty 15 min)</td>
+    <td class="tg-0pky">Sesje referatowe IV – VI (referaty 12 min)</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -131,7 +131,7 @@ title = "Program ramowy konferencji"
   </tr>
   <tr>
     <td class="tg-6ic8">11.00 – 12.30</td>
-    <td class="tg-0pky">Sesje referatowe VII – IX (referaty 10 min)</td>
+    <td class="tg-0pky">Sesje referatowe VII – IX (referaty 8 min)</td>
   </tr>
   <tr>
     <td class="tg-6ic8"></td>

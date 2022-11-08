@@ -44,7 +44,7 @@ Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [ja
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Piątek, 2.12.2022</span><br><span style="font-weight:bold">15.30 - 18.00</span></td>
     <td class="tg-c3ow">Naziemny skaning laserowy w teorii i praktyce<br>(Waldemar Kociuba, UMCS)</td>
-    <td class="tg-c3ow">Dane przestrzenne w uczeniu maszynowym<br>- środowisko R <br>(Krzysztof Dyba, Jakub Nowosad, UAM)</td>
+    <td class="tg-c3ow">Dane przestrzenne w uczeniu maszynowym<br>- środowisko R <br>(Krzysztof Dyba, UAM)</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Sobota, 3.12.2022</span><br><span style="font-weight:bold">9.00 - 12.30</span></td>

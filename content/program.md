@@ -130,7 +130,7 @@ title = "Program ramowy konferencji"
     <td class="tg-0pky">Przerwa kawowa</td>
   </tr>
   <tr>
-    <td class="tg-6ic8">11.00 – 12.30</td>
+    <td class="tg-6ic8">13.00 – 14.30</td>
     <td class="tg-0pky">Sesje referatowe VII – IX (referaty 8 min)</td>
   </tr>
   <tr>

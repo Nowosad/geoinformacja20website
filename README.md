@@ -19,9 +19,9 @@ One wszystkie powiązane są z plikami w folderze `content`.
 - Folder `static` zawiera dodatkowe pliki na stronie (np. obrazki, pdfy, etc.). 
 Zobacz, np. zawartość podfolderu `static/img`. 
 Po zbudowaniu strony sam folder `static` się "rozpuszcza" natomiast jego zawartość zaczyna znajdować się w głównej ścieżce strony.
-*Średniozaawansowane**
+*Średniozaawansowane*
 - Ostatni folder `data` zawiera kilka wbudowanych mechanizmów w ten szablon. 
-Przykładowo, podfolder `carousel` zawiera zdefiniowanie "karuzeli" na stronie głównej (tej ze zdjęciami miasta)`.
+Przykładowo, podfolder `carousel` zawiera zdefiniowanie "karuzeli" na stronie głównej (tej ze zdjęciami miasta).
 Podfolder `features` zawiera zdefiniowanie drugiego bloku na stronie głównej, `testimonials` opisuje zaproszone wykłady, a `clients` zawiera definicje sponsorów (dolny panel).
 *Średniozaawansowane*
 

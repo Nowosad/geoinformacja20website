@@ -32,7 +32,7 @@ Tramwajem linii 3 lub 10 do przystanku Naramowice, a następnie przesiadka na au
 
 Autobus 167 lub 911 (jeżdżą naprzemiennie) do przystanku Maków Polnych. Przystanek Maków Polnych jest oddalony ok. 7 minut piechotą od Collegium Geographicum.  
 
-**Spotkanie towarzyskie**
+**Wskazówki dojazdu na spotkanie towarzyskie**
 
 Collegium Minus
 

@@ -15,7 +15,7 @@ title = "Komitety"
 - Prof. dr hab. Jacek Kozak (UJ, Kraków) 
 - Prof. dr hab. Tomasz Niedzielski (UWr, Wrocław) 
 - Prof. dr Tomasz Stepinski (University of Cincinnati)
-- dr hab. Piotr Weckwerth, prof. UMK (UMK, Toruń)
+- Dr hab. Piotr Weckwerth, prof. UMK (UMK, Toruń)
 - Prof. dr hab. Piotr Werner (UW, Warszawa) 
 - Dr hab. inż. Piotr Wężyk, prof. UR (UR, Kraków)
 

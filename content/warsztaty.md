@@ -3,7 +3,7 @@ title = "Warsztaty"
 +++
 
 ## Warsztaty ESRI 
-W dniu 1.12.2022 w godzinach 8.30-10.30 firma ESRI przeprowadzi warsztaty nt. **"ArcGIS Pro i metoda Deep Learning w przetwarzaniu danych rastrowych"**. 
+W dniu 1.12.2022 w godzinach 8.00-10.00 firma ESRI przeprowadzi warsztaty nt. **"ArcGIS Pro i metoda Deep Learning w przetwarzaniu danych rastrowych"**. 
 
 Informacje nt. warsztatów ESRI: 
 
@@ -36,8 +36,8 @@ Szczegółowych informacji na temat warsztatów udziela Jarosław Jasiewicz, [ja
 <thead>
   <tr>
     <th class="tg-c3ow"></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Blok systemy obserwacyjne Ziemi</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Blok geoinformatyczny</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Blok systemy obserwacyjne Ziemi (sala 20)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Blok geoinformatyczny (sala 22)</span></th>
   </tr>
 </thead>
 <tbody>

@@ -33,17 +33,17 @@ paginate = 10
     url = "/o_konferencji/"
     weight = 1
     
-[[menu.main]]
-    parent = "Uczestnictwo"
-    name = "Opłaty i terminy"
-    url = "/terminy/"
-    weight = 2
+#[[menu.main]]
+#    parent = "Uczestnictwo"
+#    name = "Opłaty i terminy"
+#    url = "/terminy/"
+#    weight = 2
     
-[[menu.main]]
-    parent = "Uczestnictwo"
-    name = "Rejestracja"
-    url = "/rejestracja/"
-    weight = 3
+#[[menu.main]]
+#    parent = "Uczestnictwo"
+#    name = "Rejestracja"
+#    url = "/rejestracja/"
+#    weight = 3
     
 [[menu.main]]
     parent = "Uczestnictwo"
@@ -51,17 +51,17 @@ paginate = 10
     url = "/publikacja/"
     weight = 4
 
-[[menu.main]]
-    parent = "Uczestnictwo"
-    name = "Lokalizacja"
-    url = "/lokalizacja/"
-    weight = 5
+#[[menu.main]]
+#    parent = "Uczestnictwo"
+#    name = "Lokalizacja"
+#    url = "/lokalizacja/"
+#    weight = 5
 
-[[menu.main]]
-    parent = "Uczestnictwo"
-    name = "Komunikaty"
-    url = "/komunikaty/"
-    weight = 6
+#[[menu.main]]
+#    parent = "Uczestnictwo"
+#    name = "Komunikaty"
+#    url = "/komunikaty/"
+#    weight = 6
     
 [[menu.main]]
     name = "Program"

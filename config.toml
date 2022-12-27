@@ -85,11 +85,11 @@ paginate = 10
     url = "/keynotes/"
     weight = 2
     
-[[menu.main]]
-    parent = "Program"
-    name = "Warsztaty"
-    url = "/warsztaty/"
-    weight = 4
+#[[menu.main]]
+#    parent = "Program"
+#    name = "Warsztaty"
+#    url = "/warsztaty/"
+#    weight = 4
     
 #[[menu.main]]
 #    parent = "Program"
